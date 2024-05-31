@@ -1,0 +1,644 @@
+@media (max-width: 767px){
+    .owl-carousel .owl-item img {
+        display: none;
+    }
+
+    .banner_contanet {
+        text-align: center;
+
+        margin-top: 80px;
+
+    }
+
+    .banner_contanet h2 {
+        font-size: 24px;
+    }
+
+    .banner_contanet h1 {
+        font-size: 27px;
+    }
+
+    .banner_contanet p {
+        margin: 20px;
+    }
+
+    
+    .dental_Plus h1 {
+        font-size: 28px;
+    }
+
+    .dental_Plus p {
+        width: 87%;
+        text-align: center;
+        margin-left: 38px;
+    }
+
+    .dental_Plus {
+        text-align: center;
+    }
+
+    .dctors_imgs {
+        display: none;
+    }
+
+    .doctors_section p {
+        width: 78%;
+    }
+
+    .doctors_section img {
+        width: 8%;
+    }
+
+    .doctor_content h5 {
+        font-size: 16px;
+    }
+
+    .doctor_content p {
+        font-size: 15px;
+    }
+
+    .doctor_img img {
+        width: 100% !important;
+    }
+
+    .our_service p {
+        width: 65% !important;
+    }
+
+    .our_service p {
+        width: 65%;
+        text-align: center;
+        margin-left: 20%;
+    }
+
+    .read_more {
+        margin-left: 39%;;
+    }
+
+    .Pricing_Plan p {
+        width: 75%;
+        margin-top: 20px;
+    }
+
+    .client_content p {
+        width: 78%;
+        margin-top: 10px;
+    }
+
+    .footer_section {
+        text-align: center;
+    }
+
+    .footer_section p {
+        font-size: 16px;
+    }
+
+    .footer_icon {
+        justify-content: center;
+    }
+
+    .recend_post p {
+        font-size: 15px !important;
+        margin-left: 4%;
+        width: 64%;
+    }
+    .btn_sing {
+        left: 62%;
+        padding: 7px 13px;
+    }
+
+    .form {
+        justify-content: space-evenly;
+    }
+
+    .footer_media {
+        margin: 30px 67px;
+    }
+
+    .top_info a {
+        font-size: 12px !important;
+    }
+
+    .top_info h5 {
+        font-size: 15px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
+@media (max-width: 575px) {
+
+    .img_box {
+        width: 86px;
+        margin-bottom: -29px;
+    }
+
+
+    .phone {
+        width: 13%;
+    }
+
+
+    .top_info h5 {
+        font-size: 13px;
+    }
+
+
+    .top_info a {
+
+        font-size: 10px;
+
+    }
+
+    .sms {
+        width: 12%;
+    }
+
+    .location {
+        width: 11%;
+    }
+
+    .top_info {
+        margin-right: -42px;
+    }
+
+    .icon_box {
+        margin-right: 3px;
+    }
+
+    .owl-carousel .owl-item img {
+        display: none;
+    }
+
+    .banner_contanet {
+        text-align: center;
+        padding: 66px 0;
+    }
+
+    .banner_contanet h2 {
+        padding: 3px 10px;
+        font-size: 24px;
+    }
+
+    .banner_contanet h1 {
+        padding: 3px 10px;
+        font-size: 27px;
+    }
+
+    .banner_contanet p {
+        width: 65%;
+        margin: auto;
+    }
+
+    .btn_learn {
+        font-size: 14px;
+    }
+
+    .btn_book {
+        font-size: 14px;
+    }
+
+    .dental_Plus h1 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .dental_Plus p {
+        font-size: 14px;
+        width: 61%;
+        text-align: center;
+        margin: auto;
+    }
+
+    .dctors_imgs {
+        display: none;
+    }
+
+    .agency_items {
+        text-align: center;
+    }
+
+    .agency_img {
+        margin-top: 26px;
+    }
+
+    .agency_img img {
+        width: 25px;
+    }
+
+    .agency_items h5 {
+        font-size: 17px;
+    }
+
+    .agency_items {
+        text-align: center;
+    }
+
+    .doctors_section h4 {
+        font-size: 20px;
+    }
+
+    .doctors_section p {
+        width: 58%;
+        font-size: 15px;
+    }
+
+    .doctor_content {
+        width: 75%;
+        margin: auto;
+    }
+
+    .doctor_content h5 {
+        font-size: 17px;
+    }
+
+    .doctors_section p {
+        width: 58%;
+        font-size: 14px;
+    }
+
+    .our_service h4 {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .service-img{
+        width: 44px;
+    }
+
+    .our_service p {
+        width: 81%;
+        font-size: 14px;
+        margin-top: 14px;
+    }
+
+    .read_more {
+        text-transform: uppercase;
+        font-size: 12px;
+        font-weight: 700;
+    }
+
+    .Pricing_Plan h4 {
+        font-size: 19px;
+        font-weight: 600;
+    }
+
+    img.plan_img {
+        width: 44px;
+    }
+
+    .Pricing_Plan p {
+        width: 73%;
+        margin-top: 12px;
+    }
+
+    .pricing_section {
+        width: 78%;
+        margin: auto;
+        margin-bottom: 35px;
+    }
+
+    .pricing_section h2 {
+        font-size: 25px;
+        font-weight: 600;
+        margin: 20px 0;
+    }
+
+    .next_p p {
+        font-size: 14px;
+    }
+
+    .pricing_section a {
+        font-size: 14px;
+    }
+
+    .price_section h1 {
+        font-size: 36px;
+
+        margin-bottom: -13px;
+    }
+
+    .client_content h4 {
+        font-size: 22px;
+    }
+
+    .clients_img {
+        width: 44px;
+    }
+
+    .client_content p {
+        width: 61%;
+        font-size: 14px;
+    }
+
+    .footer_icon img {
+        width: 21px !important;
+        height: 21px !important;
+    }
+
+    .footer_section p {
+        text-align: center !important;
+        font-size: 14px;
+        width: 60%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+    .footer_icon p {
+        text-align: start !important;
+        width: 100%;
+        font-size: 12px !important;
+    }
+
+    .recend_post h2 {
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .recend_post p {
+        font-size: 12px !important;
+        width: 50%;
+    }
+
+    .recend_post p span {
+        font-size: 14px;
+        color: #00cce1;
+    }
+
+    .recend_post img {
+        width: 73px;
+        margin: auto;
+        margin-right: -87px;
+    }
+
+    .recend_post p {
+        font-size: 12px !important;
+        margin-right: 87px;
+        width: 50%;
+    }
+    .dental_Pluss img {
+        margin-left: 31% !important;
+        margin-bottom: 17px;
+        margin-right: 13px;
+        width: 22%;
+        margin-bottom: 20px;
+    }
+    .Newsletter {
+        text-align: center;
+        margin: 20px 0;
+    }
+
+    .Newsletter h2 {
+        margin-bottom: 10px;
+        font-size: 23px;
+    }
+
+    .btn_sing {
+        left: 66%;
+        bottom: auto;
+        padding: 7px 13px;
+    }
+
+    .form {
+        justify-content: center;
+    }
+
+    .footer_media i {
+        width: 30px;
+        height: 30px;
+    }
+
+    .footer_media {
+        width: 50%;
+        margin: auto;
+        margin-top: 23px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+
+
+}
+
+@media (max-width: 425px) {
+    .dental_Plus h1 {
+        font-size: 17px;
+    }
+
+    .dental_Plus p {
+        font-size: 13px;
+        width: 52%;
+    }
+
+    .agency_img img {
+        width: 20px;
+    }
+
+    .doctors_section h4 {
+        font-size: 18px;
+    }
+
+    .hello_img {
+        width: 44px !important;
+    }
+
+    .service-img {
+        width: 44px;
+    }
+
+    .our_service p {
+        width: 82% !important;
+        font-size: 15px;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+
+    /* .read_more {
+        margin-left: 28%;
+        margin-top: 20px;
+    } */
+    .our_service h4 {
+        font-size: 16px;
+    }
+
+    .new_two {
+        margin-right: 71px !important;
+    }
+
+    .Pricing_Plan p {
+        width: 82%;
+    }
+
+    .client_content p {
+        width: 73% !important;
+
+    }
+
+    .client_content h4 {
+        font-size: 19px !important;
+    }
+
+    .dental_Pluss img {
+        margin-left: 32%;
+        width: 30%;
+    }
+
+    .footer_icon img {
+        margin-left: 81px !important;
+    }
+
+    .recend_post p span {
+        font-size: 10px !important;
+    }
+
+    .recend_post p {
+        font-size: 13px !important;
+        margin-right: 15px;
+        width: 70% !important;
+    }
+
+    .recend_post img {
+        width: 73px;
+        margin: auto;
+        margin-right: -33px;
+    }
+
+    .footer_icon p {
+        text-align: start !important;
+        width: 62% !important;
+        font-size: 12px !important;
+        margin-right: 31px;
+    }
+
+
+    .footer_media {
+        width: 75% !important;
+    }
+
+
+}
+
+@media (max-width: 375px) {
+    .banner_contanet h2 {
+        font-size: 19px;
+    }
+
+    .banner_contanet h1 {
+        font-size: 20px;
+    }
+
+    .banner_contanet p {
+        width: 96%;
+        text-align: center;
+        margin: 20px 0;
+    }
+
+    .dental_Plus p {
+        font-size: 14px;
+        width: 89%;
+    }
+
+    .doctors_section p {
+        width: 96%;
+        font-size: 14px;
+    }
+
+    .doctor_content h5 {
+        font-size: 15px;
+    }
+
+    .doctors_section p {
+        width: 96%;
+        font-size: 13px;
+    }
+
+    .our_service h4 {
+        font-size: 18px;
+    }
+
+    .service_img h4 {
+        font-size: 13px !important;
+    }
+
+    .service_img {
+        width: 100%;
+    }
+
+    .service_img img {
+        margin-right: -1px;
+        width: 20px;
+    }
+
+    .our_service p {
+        width: 100% !important;
+        font-size: 12px;
+        margin: auto;
+        text-align: center;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+
+    .Pricing_Plan p {
+        width: 100%;
+        font-size: 15px;
+    }
+
+    .client_content p {
+        font-size: 14px;
+
+        width: 95% !important;
+    }
+}
+
+@media (max-width: 325px) {
+    .banner_contanet p {
+        width: 85%;
+        margin-left: 7%;
+    }
+
+    .service_section {
+        padding: 9px 0px;
+    }
+
+    .Pricing_Plan p {
+        width: 98%;
+    }
+
+    .pricing_section {
+        width: 99%;
+    }
+
+    .client_content p {
+        width: 97% !important;
+    }
+
+    .recend_post p {
+        width: 58% !important;
+    }
+
+
+}
